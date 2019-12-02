@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553990532035",
+    "firebase_url": "https://fitnesstestapp-250407.firebaseio.com",
+    "project_id": "fitnesstestapp-250407",
+    "storage_bucket": "fitnesstestapp-250407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553990532035:android:8001e38ba37c5dd7",
+        "android_client_info": {
+          "package_name": "com.fitnesstestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553990532035-qu8g114met8dg2q0rmg0qelhjigo493b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitnesstestapp",
+            "certificate_hash": "3a44409230cec5828982cad2f0fe85b5ae1d4874"
+          }
+        },
+        {
+          "client_id": "553990532035-vvt3pdmvmmmpg0k2kuioksc39kce6hkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMrLQQVo9bgzljV9IOmIQ2lY_67Kukomc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553990532035-vvt3pdmvmmmpg0k2kuioksc39kce6hkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
